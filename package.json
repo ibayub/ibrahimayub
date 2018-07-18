@@ -1,8 +1,8 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "Ibrahim Ayub",
+    "name": "Ibrahim Ayub",
     "version": "4.1.1",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "Ibrahim Ayub Website",
     "keywords": [
         "css",
         "sass",
@@ -23,11 +23,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/ibayub/ibrahimayub.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
         "font-awesome": "4.7.0",
+        "gulp-install": "^1.1.0",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1"
     },
